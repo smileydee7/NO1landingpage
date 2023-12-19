@@ -1,0 +1,75 @@
+                                                                                                                                * {
+                                                                                                                                    margin: 0%;
+                                                                                                                                    padding: 0%;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                body {
+                                                                                                                                    font-size: 20px;
+                                                                                                                                    font-family: 'Times New Roman', Times, serif;
+                                                                                                                                    line-height: 1.5;
+                                                                                                                                    color: gold;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #showcase {
+                                                                                                                                    background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(../images/beach.png);
+                                                                                                                                    height: 100vh;
+                                                                                                                                    background-size: cover;
+                                                                                                                                    background-position: center;
+                                                                                                                                    display: flex;
+                                                                                                                                    flex-direction: column;
+                                                                                                                                    justify-content: center;
+                                                                                                                                    text-align: center;
+                                                                                                                                    padding: 0px 30px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #showcase h1 {
+                                                                                                                                    font-size: 50px;
+                                                                                                                                    line-height: 2;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #showcase p {
+                                                                                                                                    font-size: 20px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #showcase .btn {
+                                                                                                                                    border: 1px greenyellow;
+                                                                                                                                    border-radius: 5px;
+                                                                                                                                    color: greenyellow;
+                                                                                                                                    width: 30%;
+                                                                                                                                    margin: 0% 35%;
+                                                                                                                                    margin-top: 20px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #showcase .btn:hover {
+                                                                                                                                    transition-duration: 0.5s;
+                                                                                                                                    background-color: blue;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #section-a {
+                                                                                                                                    background-color: blue;
+                                                                                                                                    padding: 20px;
+                                                                                                                                    text-align: center;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #section-b {
+                                                                                                                                    background-color: cadetblue;
+                                                                                                                                    color: #fff;
+                                                                                                                                    padding: 30px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #section-c {
+                                                                                                                                    display: flex;
+                                                                                                                                    padding: 10px;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #section-c .box1 {
+                                                                                                                                    background-color: blue;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #section-c .box2 {
+                                                                                                                                    background-color: #f9f9f9;
+                                                                                                                                }
+                                                                                                                                
+                                                                                                                                #section-c .box3 {
+                                                                                                                                    background: blue;
+                                                                                                                                }
